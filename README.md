@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
