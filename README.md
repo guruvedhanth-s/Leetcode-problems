@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
