@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [2227-sum-of-subarray-ranges](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [2227-sum-of-subarray-ranges](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
