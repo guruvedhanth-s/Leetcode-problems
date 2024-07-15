@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [2227-sum-of-subarray-ranges](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
