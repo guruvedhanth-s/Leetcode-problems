@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2227-sum-of-subarray-ranges](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
