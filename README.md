@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
