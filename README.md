@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0838-design-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0838-design-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
