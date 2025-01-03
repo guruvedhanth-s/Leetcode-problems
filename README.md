@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
