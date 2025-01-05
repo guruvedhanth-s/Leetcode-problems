@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [3636-check-balanced-string](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
