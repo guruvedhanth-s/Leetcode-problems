@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3636-check-balanced-string](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
