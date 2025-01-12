@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
