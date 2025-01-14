@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## String
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
 ## Trie
 |  |
 | ------- |
