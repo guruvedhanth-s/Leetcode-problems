@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [2509-minimize-xor](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2509-minimize-xor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
+| [2509-minimize-xor](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Prefix Sum
 |  |
