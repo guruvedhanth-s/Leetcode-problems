@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
 | [2509-minimize-xor](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Prefix Sum
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
