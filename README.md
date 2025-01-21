@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
+| [2238-a-number-after-a-double-reversal](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Trie
 |  |
