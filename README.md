@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## String
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0268-missing-number) |
 | [2509-minimize-xor](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Prefix Sum
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0268-missing-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Trie
