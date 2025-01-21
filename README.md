@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/0231-power-of-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Trie
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/guruvedhanth-s/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
